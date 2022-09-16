@@ -1,5 +1,5 @@
 * practica 01
-** Alcansabilidad
+** Alcanzabilidad
    
    Ejecuta los siguientes comandos en la dirección especificada.
 
