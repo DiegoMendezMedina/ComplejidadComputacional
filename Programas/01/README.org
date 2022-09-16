@@ -1,0 +1,13 @@
+* Programa01
+  
+  En la carpeta doc se encuentra el archivo .pdf solicitado junto 
+  a su respectivo .tex.
+
+  En src la implementación de ambos problemas implementados en C,
+  tambíen encuentras un readme con instrucciones para compilar y ejecutar.
+
+
+  Lamento la demora, pero ayer estuvo un poco movido el día y me fue 
+  imposible terminar, no vuelve a ocurrir.
+  
+  

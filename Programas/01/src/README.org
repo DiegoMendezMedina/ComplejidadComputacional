@@ -1,0 +1,44 @@
+* practica 01
+** Alcansabilidad
+   
+   Ejecuta los siguientes comandos en la dirección especificada.
+
+*** Compilar y ejecutar 
+
+    /src~$ make problema_alcance 
+    
+    O en su defecto compila y ejecuta:
+
+*** Compilar
+
+    /src~$ make compile_alcance
+    
+    o
+    
+   /src~$ gcc -o alcance alcance.c grafica.c
+
+*** Ejecutar
+
+    /src~$ ./alcance
+
+** 3-SAT
+   
+   Ejecuta los siguientes comandos en la dirección especificada.
+
+*** Compilar y ejecutar 
+
+    /src~$ make problema_3sat
+    
+    O en su defecto compila y ejecuta:
+
+*** Compilar
+
+    /src~$ make compile_sat
+    
+    o
+    
+   /src~$ gcc -o sat 3sat.c FOL.c
+
+*** Ejecutar
+
+    /src~$ ./sat
