@@ -1,0 +1,7 @@
+* Programa02
+  
+  En la carpeta doc se encuentra el archivo .pdf solicitado junto 
+  a su respectivo .tex.
+
+  En src la implementación de approx subsetsum implementado en C,
+  tambíen encuentras un readme con instrucciones para compilar y ejecutar.

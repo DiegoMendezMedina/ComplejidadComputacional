@@ -1,0 +1,50 @@
+* practica 02
+** approx subsetsum
+   
+   Para meter los datos ir a *compilar y ejecutar* o en su defecto 
+   *compilar* y luego a *ejecutar*. 
+
+   Para correr los casos enlistados se debe *compilar* y luego ejecutar 
+   con ayuda de los ~make samplen~. (Ver Ejecutar->Samples)
+
+
+   Ejecuta los siguientes comandos en la dirección especificada.
+
+*** Compilar y ejecutar     
+
+    Para meter las entradas con la entrada estándar: 
+
+    ~/src$ make~
+
+*** Compilar
+
+    ~/src~$ make compile~
+    
+    o
+    
+    ~/src~$ gcc -o approx_subsetsum main.c list.c -lm~
+
+*** Ejecutar
+    
+  + Samples
+
+  Una vez compilado podemos hacer uso de los samples
+  que ya estan en la carpeta samples/ y son los que se 
+  anexaron capturas en el documento:
+    
+    - ~/src$ make sample1~
+     
+    - ~/src$ make sample2~
+     
+    - ~/src$ make sample3~
+    
+    - ~/src$ make sample4~
+
+    - ~/src$ make sample5~
+
+  + Metiendo datos
+
+  O en su defecto hacer uso del ejecutable:
+
+     - ~/src~$ ./approx_subset_sum~
+    
